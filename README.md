@@ -1,0 +1,1 @@
+# fivem_addon_weapons_template
