@@ -6,6 +6,7 @@ Collection of weapons template for adding new weapon in FiveM
 * Choose the weapon
 * Replace `NEW_ORDER_NUMBER_HERE` with new order number **(UNIQUE)**
 * Replace `WEAPON_IN_GAME_NAME_HERE` with new name **(UNIQUE)**
+* Replace `SLOT_NAME_HERE` with new slot name
 * Replace `WEAPON_MODEL_NAME_HERE` with model name
 
 ## License
