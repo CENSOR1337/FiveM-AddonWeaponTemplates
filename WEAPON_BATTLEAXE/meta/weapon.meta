@@ -33,9 +33,6 @@
   <AimingInfos />
   <Infos>
     <Item>
-      <Infos />
-    </Item>
-    <Item>
       <Infos>
         <Item type="CWeaponInfo">
           <Name>WEAPON_IN_GAME_NAME_HERE</Name>
@@ -325,12 +322,6 @@
           <RotateBarrelBone2 />
         </Item>
       </Infos>
-    </Item>
-    <Item>
-      <Infos />
-    </Item>
-    <Item>
-      <Infos />
     </Item>
   </Infos>
   <VehicleWeaponInfos />

@@ -10,36 +10,13 @@
         </Item>
       </WeaponSlots>
     </Item>
-    <Item>
-      <WeaponSlots>
-        <Item>
-          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
-          <Entry>SLOT_NAME_HERE</Entry>
-        </Item>
-      </WeaponSlots>
-    </Item>
   </SlotNavigateOrder>
-  <SlotBestOrder>
-    <WeaponSlots>
-      <Item>
-        <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
-        <Entry>SLOT_NAME_HERE</Entry>
-      </Item>
-    </WeaponSlots>
-  </SlotBestOrder>
-  <TintSpecValues />
-  <FiringPatternAliases />
-  <UpperBodyFixupExpressionData />
-  <AimingInfos />
   <Infos>
-    <Item>
-      <Infos />
-    </Item>
     <Item>
       <Infos>
         <Item type="CWeaponInfo">
           <Name>WEAPON_IN_GAME_NAME_HERE</Name>
-          <Model>w_pi_revolver</Model>
+          <Model>WEAPON_MODEL_NAME_HERE</Model>
           <Audio>AUDIO_ITEM_REVOLVER</Audio>
           <Slot>SLOT_NAME_HERE</Slot>
           <DamageType>BULLET</DamageType>
@@ -221,7 +198,7 @@
           <FirstPersonAimFovMax value="47.000000" />
           <FirstPersonScopeFov value="30.000000" />
           <FirstPersonScopeAttachmentFov value="0.000000" />
-		  <FirstPersonDrivebyIKOffset x="0.000000" y="-0.020000" z="-0.020000" />
+          <FirstPersonDrivebyIKOffset x="0.000000" y="-0.020000" z="-0.020000" />
           <FirstPersonRNGOffset x="0.000000" y="0.000000" z="-0.025000" />
           <FirstPersonRNGRotationOffset x="0.000000" y="0.000000" z="-2.000000" />
           <FirstPersonLTOffset x="0.000000" y="0.000000" z="-0.010000" />
@@ -313,7 +290,7 @@
                 </Item>
               </Components>
             </Item>
-			<Item>
+            <Item>
               <AttachBone>gun_gripr</AttachBone>
               <Components>
                 <Item>
