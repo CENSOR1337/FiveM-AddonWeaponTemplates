@@ -5,16 +5,16 @@
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="90" />
-          <Entry>SLOT_WRENCH</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="90" />
-          <Entry>SLOT_WRENCH</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
@@ -22,8 +22,8 @@
   <SlotBestOrder>
     <WeaponSlots>
       <Item>
-        <OrderNumber value="341" />
-        <Entry>SLOT_WRENCH</Entry>
+        <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+        <Entry>SLOT_NAME_HERE</Entry>
       </Item>
     </WeaponSlots>
   </SlotBestOrder>
@@ -38,10 +38,10 @@
     <Item>
       <Infos>
         <Item type="CWeaponInfo">
-          <Name>WEAPON_WRENCH</Name>
-          <Model>w_me_wrench</Model>
+          <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+          <Model>WEAPON_MODEL_NAME_HERE</Model>
           <Audio />
-          <Slot>SLOT_WRENCH</Slot>
+          <Slot>SLOT_NAME_HERE</Slot>
           <DamageType>MELEE</DamageType>
           <Explosion>
             <Default>DONTCARE</Default>
@@ -229,7 +229,7 @@
           <ReticuleScale value="1.000000" />
           <ReticuleStyleHash />
           <FirstPersonReticuleStyleHash />
-          <PickupHash>PICKUP_WEAPON_WRENCH</PickupHash>
+          <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
           <MPPickupHash />
           <HumanNameHash>WT_WRENCH</HumanNameHash>
           <MovementModeConditionalIdle />
