@@ -5,16 +5,16 @@
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="84" />
-          <Entry>SLOT_KNUCKLE</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="84" />
-          <Entry>SLOT_KNUCKLE</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
@@ -22,8 +22,8 @@
   <SlotBestOrder>
     <WeaponSlots>
       <Item>
-        <OrderNumber value="375" />
-        <Entry>SLOT_KNUCKLE</Entry>
+        <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+        <Entry>SLOT_NAME_HERE</Entry>
       </Item>
     </WeaponSlots>
   </SlotBestOrder>
@@ -38,10 +38,10 @@
     <Item>
       <Infos>
         <Item type="CWeaponInfo">
-          <Name>WEAPON_KNUCKLE</Name>
-          <Model>W_ME_Knuckle</Model>
+          <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+          <Model>WEAPON_MODEL_NAME_HERE</Model>
           <Audio />
-          <Slot>SLOT_KNUCKLE</Slot>
+          <Slot>SLOT_NAME_HERE</Slot>
           <DamageType>MELEE</DamageType>
           <Explosion>
             <Default>DONTCARE</Default>
@@ -224,7 +224,7 @@
           <ReticuleScale value="1.000000" />
           <ReticuleStyleHash>WEAPON_UNARMED</ReticuleStyleHash>
           <FirstPersonReticuleStyleHash />
-          <PickupHash>PICKUP_WEAPON_KNUCKLE</PickupHash>
+          <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
           <MPPickupHash />
           <HumanNameHash>WT_KNUCKLE</HumanNameHash>
           <MovementModeConditionalIdle />
