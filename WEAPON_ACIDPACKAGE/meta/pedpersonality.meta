@@ -7,22 +7,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>unarmed_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>unarmed_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>unarmed_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -31,22 +18,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>2h_melee_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>2h_melee_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>2h_melee_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -55,22 +29,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>1h_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>1h_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>1h_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -79,22 +40,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>2h_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>2h_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>2h_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -103,22 +51,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>mini_holster_2h_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>mini_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>mini_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -127,22 +62,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>unarmed_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>unarmed_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>unarmed_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -151,22 +73,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>unarmed_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>unarmed_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>unarmed_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -175,22 +84,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>1h_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>1h_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>1h_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -199,22 +95,9 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
-						<Item>WEAPON_CANDYCANE</Item>
 						<Item>WEAPON_ACIDPACKAGE</Item>
 					</Weapons>
 					<Clip>2h_holster_unarmed</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_PISTOLXM3</Item>
-					</Weapons>
-					<Clip>2h_holster_1h</Clip>
-				</Item>
-				<Item>
-					<Weapons>
-						<Item>WEAPON_RAILGUNXM3</Item>
-					</Weapons>
-					<Clip>2h_holster_2h</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -226,29 +109,6 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_zero@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_zero@armed@1H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@GENERIC@TRANS@1H</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -269,55 +129,10 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_zero@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_zero@armed@2H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@GENERIC@TRANS@2H</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_zero@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_zero@1h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>move_stealth@generic@trans@1h</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>move_stealth@p_m_zero@holster</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -338,28 +153,6 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_zero@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_zero@2h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>move_stealth@generic@trans@2h</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>move_stealth@p_m_zero@holster</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 			</MovementModes>
 		</Item>
@@ -369,29 +162,6 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_zero@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_zero@armed@1H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@MP_FEMALE@ARMED@1H@TRANS</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -412,55 +182,10 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_zero@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@mp_female@armed@2H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@MP_FEMALE@ARMED@2H@TRANS</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_zero@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_zero@1h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_STEALTH@MP_FEMALE@1H@TRANS</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>move_stealth@p_m_zero@holster</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -481,28 +206,6 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_zero@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_zero@2h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_STEALTH@MP_FEMALE@2H@TRANS</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>move_stealth@p_m_zero@holster</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 			</MovementModes>
 		</Item>
@@ -512,29 +215,6 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_zero@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_zero@armed@1H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@P_M_ZERO@ARMED@1H@TRANS@A</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -555,55 +235,10 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_zero@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_zero@armed@2H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@P_M_ZERO@ARMED@2H@TRANS@A</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_zero@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_zero@1h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>move_stealth@p_m_zero@1h@trans@a</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>move_stealth@p_m_zero@holster</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -624,28 +259,6 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_zero@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_zero@2h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>move_stealth@p_m_zero@2h@trans@a</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>move_stealth@p_m_zero@holster</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 			</MovementModes>
 		</Item>
@@ -655,29 +268,6 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_one@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_one@armed@1H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="false" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@P_M_ONE@ARMED@1H@TRANS@A</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ONE@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -698,55 +288,10 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_one@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@P_M_ONE@armed@2H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@P_M_ONE@ARMED@2H@TRANS@A</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_ONE@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_one@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_one@1h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="false" />
-								<IdleTransitions>
-									<Item>move_stealth@p_m_one@1h@trans@a</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_STEALTH@P_M_ONE@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -767,28 +312,6 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_one@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_one@2h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>move_stealth@p_m_one@2h@trans@a</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_STEALTH@P_M_ONE@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 			</MovementModes>
 		</Item>
@@ -798,29 +321,6 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_two@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_two@armed@1H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="false" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@P_M_TWO@ARMED@1H@TRANS@A</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_TWO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -841,55 +341,10 @@
 							</Item>
 						</ClipSets>
 					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_action@p_m_two@armed@core</MovementClipSetId>
-								<WeaponClipSetId>move_action@p_m_two@armed@2H@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>MOVE_ACTION@P_M_TWO@ARMED@2H@TRANS@A</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_ACTION@P_M_TWO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H" />
-							</Item>
-						</ClipSets>
-					</Item>
 				</Item>
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_PISTOLXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_two@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_two@1h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="false" />
-								<IdleTransitions>
-									<Item>move_stealth@p_m_two@1h@trans@a</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_STEALTH@P_M_TWO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_1H_STEALTH" />
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_CANDYCANE</Item>
 							<Item>WEAPON_ACIDPACKAGE</Item>
 						</Weapons>
 						<ClipSets>
@@ -907,28 +362,6 @@
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_STEALTH@P_M_TWO@HOLSTER</UnholsterClipSetId>
 								<UnholsterClipData>UNHOLSTER_UNARMED_STEALTH</UnholsterClipData>
-							</Item>
-						</ClipSets>
-					</Item>
-					<Item>
-						<Weapons>
-							<Item>WEAPON_RAILGUNXM3</Item>
-						</Weapons>
-						<ClipSets>
-							<Item>
-								<MovementClipSetId>move_stealth@p_m_two@unarmed@core</MovementClipSetId>
-								<WeaponClipSetId>move_stealth@p_m_two@2h@upper</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true" />
-								<UpperBodyFeatheredLeanEnabled value="true" />
-								<UseWeaponAnimsForGrip value="false" />
-								<UseLeftHandIk value="true" />
-								<IdleTransitions>
-									<Item>move_stealth@p_m_two@2h@trans@a</Item>
-								</IdleTransitions>
-								<IdleTransitionBlendOutTime value="0.500000" />
-								<UnholsterClipSetId>MOVE_STEALTH@P_M_TWO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData ref="UNHOLSTER_2H_STEALTH" />
 							</Item>
 						</ClipSets>
 					</Item>

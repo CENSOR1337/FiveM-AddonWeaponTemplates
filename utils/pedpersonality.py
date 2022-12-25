@@ -52,6 +52,4 @@ for x in myroot:
                         for q in toBeRemoved:
                             w.remove(q)
 
-# create new xml file with the results and beautify it
-# use double quotes for attributes
 mytree.write("result.meta", encoding="utf-8", xml_declaration=True, default_namespace=None, method="xml")
