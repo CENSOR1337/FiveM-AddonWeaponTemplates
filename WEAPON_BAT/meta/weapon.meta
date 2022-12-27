@@ -4,16 +4,16 @@
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="50" />
-          <Entry>SLOT_BAT</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
     <Item>
       <WeaponSlots>
         <Item>
-          <OrderNumber value="50" />
-          <Entry>SLOT_BAT</Entry>
+          <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+          <Entry>SLOT_NAME_HERE</Entry>
         </Item>
       </WeaponSlots>
     </Item>
@@ -21,8 +21,8 @@
   <SlotBestOrder>
     <WeaponSlots>
       <Item>
-        <OrderNumber value="350" />
-        <Entry>SLOT_BAT</Entry>
+        <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+        <Entry>SLOT_NAME_HERE</Entry>
       </Item>
     </WeaponSlots>
   </SlotBestOrder>
@@ -37,10 +37,10 @@
     <Item>
       <Infos>
         <Item type="CWeaponInfo">
-          <Name>WEAPON_BAT</Name>
-          <Model>w_me_bat</Model>
+          <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+          <Model>WEAPON_MODEL_NAME_HERE</Model>
           <Audio />
-          <Slot>SLOT_BAT</Slot>
+          <Slot>SLOT_NAME_HERE</Slot>
           <DamageType>MELEE</DamageType>
           <Explosion>
             <Default>DONTCARE</Default>
@@ -223,7 +223,7 @@
           <ReticuleScale value="1.000000" />
           <ReticuleStyleHash />
           <FirstPersonReticuleStyleHash />
-          <PickupHash>PICKUP_WEAPON_BAT</PickupHash>
+          <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
           <MPPickupHash />
           <HumanNameHash>WT_BAT</HumanNameHash>
           <MovementModeConditionalIdle />

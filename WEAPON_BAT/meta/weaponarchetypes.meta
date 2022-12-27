@@ -3,8 +3,8 @@
 <CWeaponModelInfo__InitDataList>
 	<InitDatas>
 		<Item>
-			<modelName>w_me_bat</modelName>
-			<txdName>w_me_bat</txdName>
+			<modelName>WEAPON_MODEL_NAME_HERE</modelName>
+			<txdName>WEAPON_MODEL_NAME_HERE</txdName>
 			<ptfxAssetName>NULL</ptfxAssetName>
 			<lodDist value="50" />
 		</Item>
