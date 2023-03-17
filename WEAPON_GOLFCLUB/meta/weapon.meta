@@ -37,8 +37,8 @@
         <Item>
             <Infos>
                 <Item type="CWeaponInfo">
-                    <Name>WEAPON_GOLFCLUB</Name>
-                    <Model>w_me_gclub</Model>
+                    <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+                    <Model>WEAPON_MODEL_NAME_HERE</Model>
                     <Audio />
                     <Slot>SLOT_GOLFCLUB</Slot>
                     <DamageType>MELEE</DamageType>
@@ -213,7 +213,7 @@
                     <ReticuleScale value="1.000000" />
                     <ReticuleStyleHash />
                     <FirstPersonReticuleStyleHash />
-                    <PickupHash>PICKUP_WEAPON_GOLFCLUB</PickupHash>
+                    <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
                     <MPPickupHash />
                     <HumanNameHash>WT_GOLFCLUB</HumanNameHash>
                     <MovementModeConditionalIdle />
