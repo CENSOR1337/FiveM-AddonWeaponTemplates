@@ -5,16 +5,16 @@
         <Item>
             <WeaponSlots>
                 <Item>
-                    <OrderNumber value="82" />
-                    <Entry>SLOT_DAGGER</Entry>
+                    <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+                    <Entry>SLOT_NAME_HERE</Entry>
                 </Item>
             </WeaponSlots>
         </Item>
         <Item>
             <WeaponSlots>
                 <Item>
-                    <OrderNumber value="82" />
-                    <Entry>SLOT_DAGGER</Entry>
+                    <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+                    <Entry>SLOT_NAME_HERE</Entry>
                 </Item>
             </WeaponSlots>
         </Item>
@@ -23,7 +23,7 @@
         <WeaponSlots>
             <Item>
                 <OrderNumber value="327" />
-                <Entry>SLOT_DAGGER</Entry>
+                <Entry>SLOT_NAME_HERE</Entry>
             </Item>
         </WeaponSlots>
     </SlotBestOrder>
@@ -38,10 +38,10 @@
         <Item>
             <Infos>
                 <Item type="CWeaponInfo">
-                    <Name>WEAPON_DAGGER</Name>
-                    <Model>w_me_dagger</Model>
+                    <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+                    <Model>WEAPON_MODEL_NAME_HERE</Model>
                     <Audio />
-                    <Slot>SLOT_DAGGER</Slot>
+                    <Slot>SLOT_NAME_HERE</Slot>
                     <DamageType>MELEE</DamageType>
                     <Explosion>
                         <Default>DONTCARE</Default>
@@ -239,7 +239,7 @@
                     <ReticuleScale value="1.000000" />
                     <ReticuleStyleHash />
                     <FirstPersonReticuleStyleHash />
-                    <PickupHash>PICKUP_WEAPON_DAGGER</PickupHash>
+                    <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
                     <MPPickupHash />
                     <HumanNameHash>WT_DAGGER</HumanNameHash>
                     <MovementModeConditionalIdle />
@@ -277,7 +277,7 @@
                     <HudRange value="0" />
                     <VehicleAttackAngle value="25.000000" />
                     <CamoDiffuseTexIdxs>
-                        <Item key="w_me_dagger">
+                        <Item key="WEAPON_MODEL_NAME_HERE">
                             <Item key="0" value="1" />
                             <Item key="1" value="2" />
                         </Item>

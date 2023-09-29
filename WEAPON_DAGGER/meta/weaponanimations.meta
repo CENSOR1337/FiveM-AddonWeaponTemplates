@@ -2,7 +2,7 @@
     <WeaponAnimationsSets>
         <Item key="Default">
             <WeaponAnimations>
-                <Item key="WEAPON_DAGGER">
+                <Item key="WEAPON_IN_GAME_NAME_HERE">
                     <CoverMovementClipSetHash />
                     <CoverMovementExtraClipSetHash />
                     <CoverAlternateMovementClipSetHash />
@@ -49,7 +49,7 @@
         <Item key="FirstPerson">
             <Fallback>Default</Fallback>
             <WeaponAnimations>
-                <Item key="WEAPON_DAGGER">
+                <Item key="WEAPON_IN_GAME_NAME_HERE">
                     <MovementOverrideClipSetHash>move_m@generic</MovementOverrideClipSetHash>
                     <CoverMovementClipSetHash />
                     <CoverMovementExtraClipSetHash />
