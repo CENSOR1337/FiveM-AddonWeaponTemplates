@@ -7,7 +7,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>unarmed_holster_2h</Clip>
                 </Item>
@@ -18,7 +18,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>2h_melee_holster_2h</Clip>
                 </Item>
@@ -29,7 +29,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>1h_holster_2h</Clip>
                 </Item>
@@ -40,7 +40,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>2h_holster_2h</Clip>
                 </Item>
@@ -51,7 +51,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>mini_holster_2h</Clip>
                 </Item>
@@ -62,7 +62,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>unarmed_holster_2h</Clip>
                 </Item>
@@ -73,7 +73,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>unarmed_holster_2h</Clip>
                 </Item>
@@ -84,7 +84,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>1h_holster_2h</Clip>
                 </Item>
@@ -95,7 +95,7 @@
             <UnholsterClips>
                 <Item>
                     <Weapons>
-                        <Item>WEAPON_GRENADELAUNCHER</Item>
+                        <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                     </Weapons>
                     <Clip>2h_holster_2h</Clip>
                 </Item>
@@ -109,7 +109,7 @@
                 <Item>
                     <Item>
                         <Weapons>
-                            <Item>WEAPON_GRENADELAUNCHER</Item>
+                            <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                         </Weapons>
                         <ClipSets>
                             <Item>
@@ -133,7 +133,7 @@
                 <Item>
                     <Item>
                         <Weapons>
-                            <Item>WEAPON_GRENADELAUNCHER</Item>
+                            <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                         </Weapons>
                         <ClipSets>
                             <Item>
@@ -162,7 +162,7 @@
                 <Item>
                     <Item>
                         <Weapons>
-                            <Item>WEAPON_GRENADELAUNCHER</Item>
+                            <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                         </Weapons>
                         <ClipSets>
                             <Item>
@@ -186,7 +186,7 @@
                 <Item>
                     <Item>
                         <Weapons>
-                            <Item>WEAPON_GRENADELAUNCHER</Item>
+                            <Item>WEAPON_IN_GAME_NAME_HERE</Item>
                         </Weapons>
                         <ClipSets>
                             <Item>

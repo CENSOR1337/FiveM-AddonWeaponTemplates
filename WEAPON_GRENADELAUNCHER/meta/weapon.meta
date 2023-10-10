@@ -5,8 +5,8 @@
         <Item>
             <WeaponSlots>
                 <Item>
-                    <OrderNumber value="300" />
-                    <Entry>SLOT_GRENADELAUNCHER</Entry>
+                    <OrderNumber value="NEW_ORDER_NUMBER_HERE" />
+                    <Entry>SLOT_NAME_HERE</Entry>
                 </Item>
             </WeaponSlots>
         </Item>
@@ -16,10 +16,10 @@
         <Item>
             <Infos>
                 <Item type="CWeaponInfo">
-                    <Name>WEAPON_GRENADELAUNCHER</Name>
-                    <Model>w_lr_grenadelauncher</Model>
+                    <Name>WEAPON_IN_GAME_NAME_HERE</Name>
+                    <Model>WEAPON_MODEL_NAME_HERE</Model>
                     <Audio>AUDIO_ITEM_GRENADELAUNCHER</Audio>
-                    <Slot>SLOT_GRENADELAUNCHER</Slot>
+                    <Slot>SLOT_NAME_HERE</Slot>
                     <DamageType>EXPLOSIVE</DamageType>
                     <Explosion>
                         <Default>DONTCARE</Default>
@@ -208,7 +208,7 @@
                     <ReticuleScale value="0.000000" />
                     <ReticuleStyleHash>WEAPON_HEAVY_GRENADE_LAUNCHER</ReticuleStyleHash>
                     <FirstPersonReticuleStyleHash />
-                    <PickupHash>PICKUP_WEAPON_GRENADELAUNCHER</PickupHash>
+                    <PickupHash>PICKUP_WEAPON_IN_GAME_NAME_HERE</PickupHash>
                     <MPPickupHash>PICKUP_AMMO_GRENADELAUNCHER_MP</MPPickupHash>
                     <HumanNameHash>WT_GL</HumanNameHash>
                     <MovementModeConditionalIdle>MMI_2Handed</MovementModeConditionalIdle>
