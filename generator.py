@@ -2,114 +2,7 @@ import os
 import glob
 
 weapons = [
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V1",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V2",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V3",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V4",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V5",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V6",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V7",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V8",
-    },
-    {
-        "base": "WEAPON_POOLCUE",
-        "name": "WEAPON_POOLCUE_V9",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V1",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V2",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V3",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V4",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V5",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V6",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V7",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V8",
-    },
-    {
-        "base": "WEAPON_KNIFE",
-        "name": "WEAPON_KNIFE_V9",
-    },
-     {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V1",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V2",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V3",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V4",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V5",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V6",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V7",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V8",
-    },
-    {
-        "base": "WEAPON_KNUCKLE",
-        "name": "WEAPON_KNUCKLE_V9",
-    },
+    {"base": "WEAPON_POOLCUE", "name": "WEAPON_POOLCUE_V1", "model": "w_melee_poolcue"}
 ]
 
 orderNumberStart = 10000
@@ -122,6 +15,7 @@ for weapon in weapons:
     orderNumberStart += 1
     base = weapon["base"]
     weaponName = weapon["name"]
+    model = weapon["model"] if "model" in weapon else weapon
 
     # delete whole folder
     os.system("rmdir .\\output\\{} /S /Q".format(weaponName))
@@ -138,7 +32,6 @@ for weapon in weapons:
                 filedata = filedata.replace("NEW_ORDER_NUMBER_HERE", str(orderNumberStart))
                 filedata = filedata.replace("WEAPON_IN_GAME_NAME_HERE", str(weaponName))
                 filedata = filedata.replace("SLOT_NAME_HERE", str(orderNumberStart))
-                filedata = filedata.replace("WEAPON_MODEL_NAME_HERE", str(weaponName))
-                
+                filedata = filedata.replace("WEAPON_MODEL_NAME_HERE", str(model))
                 with open(file, "w") as f:
                     f.write(filedata)
